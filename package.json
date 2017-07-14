@@ -1,0 +1,21 @@
+{
+  "name": "bandoleiro",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "babel-polyfill": "^6.23.0",
+    "css-loader": "^0.28.4",
+    "draft-js": "^0.10.1",
+    "eslint-config-react-app": "^1.0.5",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "^1.0.10",
+    "style-loader": "^0.18.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
